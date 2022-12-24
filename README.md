@@ -42,7 +42,22 @@ This is a simple google maps application clone using mapbox api integration with
 
 <br>
 
+## About The Mapbox API
+Mapbox is a mapping platform that provides a range of tools and APIs for building custom maps, geocoding, and directions. Mapbox APIs include:
 
+1. Maps API: Provides a set of APIs for interacting with Mapbox maps, including style customization, marker placement, and geocoding.
+
+2. Navigation API: Provides directions, estimated travel times, and turn-by-turn navigation for cars, bikes, and pedestrians.
+
+3. Geocoding API: Converts addresses and place names into geographic coordinates and vice versa.
+
+4. Matrix API: Calculates the distance and duration between many points and returns the result in a matrix format.
+
+5. ptimization API: Finds the most efficient route for a set of stops.
+
+Mapbox APIs are accessed using a user-specific API key, which can be obtained by creating a Mapbox account. Mapbox provides both free and paid plans, with the free plan offering limited usage and the paid plans offering additional features and higher usage limits.
+
+<br>
 
 
 ## Contact
